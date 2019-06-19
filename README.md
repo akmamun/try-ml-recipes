@@ -5,6 +5,7 @@
 - [Iris dataset import and train and test](notebook/iris_dataset_practice.ipynb)
 - [How find good or useless feature](notebook/good_feature_identify.ipynb)
 - [Write training pipeline](notebook/Write_a_Pipeline_Supervise_Learning.ipynb)
+- [Deep Learning with Tensorflow](notebook/DeepLearning,_Tensorflow,_Keras.ipynb)
 #### Python file
 - [Python basic for data science](python/basic_data_science.py)
 - [Machine learning recipes](python/machine_learning_recipes.py)
